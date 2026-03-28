@@ -2,7 +2,7 @@
 Micro Robot Inspired by the Micro Sesame Project
 
 # Parts:
-Movement:
+## Movement:
 
 Motor (8x): DM-S0020 (4.8v-6.v + 35mA) + (Connector Wire Length: 110mm)
 
@@ -12,7 +12,7 @@ IMU: GY-9250
 
 TOF: TOF200C-VL53L0X
 
-Main:
+## Main:
 Communicator (1x): Luckfox pico mini linux rv1103
 
 Screan (1x): ER-OLEDMO_49
@@ -23,7 +23,7 @@ Speaker (1x): MAX98357A I2S Audio Amplifier Module
 
 Mic (1x): INMP441 I2S Microphone Module
 
-Power:
+## Power:
 TP4056 Charger (with protection)
 
 LiPo battery: https://www.amazon.de/2000mAh-103450-Lithium-Polymer-Ionen-Lithium-Ionen-Li-Po-Akku-2P-PH-Anschluss-Rasterma%C3%9F/dp/B0CSSBXFTD/ref=asc_df_B0CSSBXFTD?mcid=b4850029411639c387362a7075d0ff80&th=1&tag=googshopde-21&linkCode=df0&hvadid=697083618628&hvpos=&hvnetw=g&hvrand=14839537052876964242&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9192407&hvtargid=pla-2352241533487&hvocijid=14839537052876964242-B0CSSBXFTD-&hvexpln=0
