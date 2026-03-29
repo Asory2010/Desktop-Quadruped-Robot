@@ -1,5 +1,5 @@
 # Project-Stellar
-Micro Robot Inspired by the Micro Sesame Project: https://github.com/dorianborian/sesame-robot-micro
+A Micro Robot Inspired by the Micro Sesame Project: https://github.com/dorianborian/sesame-robot-micro
 
 But with the aim of making a version that has autonomus capabalities such as robots like Cosmo or Vector (by Anki)
 
